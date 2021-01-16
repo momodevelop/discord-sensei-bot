@@ -1,0 +1,6 @@
+config.json
+*.exe
+Makefile
+target/
+deploy/packages/
+.vscode/
